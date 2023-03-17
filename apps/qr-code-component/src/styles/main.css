@@ -43,5 +43,6 @@ body {
 
 .card-text {
   color: var(--greyish-blue);
+  padding: 0.5rem;
   text-align: center;
 }
